@@ -1,0 +1,9 @@
+﻿For users of IntelliJ IDEA or Android Studio make these steps:
+
+1) From the menu Build/Generate signed APK
+2) You need to create a keystore path. From the dialog click Create new. You will create a jks file that includes your keys. Select folder, define a password. So your keystore ok.
+3) Create new key by for your application by using alias, key password, your name etc.
+4) Click next.
+5) From the dialog either select Proguard or not.
+
+the signed APK file is ready.
